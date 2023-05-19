@@ -1,3 +1,6 @@
+# mf-webapp-infojobs
+Este repositorio alberga mi proyecto para una hackatón de Info Jobs. Se trata de una web con un renovado diseño de interfaz de usuario.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
